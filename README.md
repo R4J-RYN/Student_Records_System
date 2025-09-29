@@ -15,10 +15,6 @@ A simple Java-based **Student Management System** that allows users to manage st
 - **Database:** MySQL (or as per your setup)
 - **IDE:** Spring Tools Suite (STS)
 
-## Note
-> The project currently **does not include database configuration (`application.properties`)**.
-> Running the project as-is will not work until the database connection is set up manually.
-
 ## Installation (Optional)
 1. Clone the repository:
 ```bash
